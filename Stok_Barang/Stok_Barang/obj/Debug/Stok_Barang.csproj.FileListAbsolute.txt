@@ -1,0 +1,26 @@
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\bin\Debug\Stok_Barang.exe.config
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\bin\Debug\Stok_Barang.exe
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\bin\Debug\Stok_Barang.pdb
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.csproj.AssemblyReference.cache
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.Properties.Resources.resources
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.csproj.GenerateResource.cache
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.csproj.CoreCompileInputs.cache
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.exe
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.pdb
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormDashboard.resources
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormDaftarStock.resources
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormRekapBarang.resources
+D:\FILE SEMESTER 3\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormLogin.resources
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\bin\Debug\Stok_Barang.exe.config
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\bin\Debug\Stok_Barang.exe
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\bin\Debug\Stok_Barang.pdb
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.csproj.AssemblyReference.cache
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormDashboard.resources
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormDaftarStock.resources
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormLogin.resources
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.FormRekapBarang.resources
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.Properties.Resources.resources
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.csproj.GenerateResource.cache
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.csproj.CoreCompileInputs.cache
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.exe
+C:\Users\DWP\Downloads\Stok_Barang\Stok_Barang\obj\Debug\Stok_Barang.pdb
